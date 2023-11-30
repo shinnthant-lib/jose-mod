@@ -29,7 +29,9 @@ TODO: Include short and useful examples for package users. Add longer examples
 to `/example` folder.
 
 ```dart
-const like = 'sample';
+  jose_mod:
+    git:
+      url: https://github.com/shinnthant-lib/jose-mod.git
 ```
 
 ## Additional information

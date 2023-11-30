@@ -25,8 +25,7 @@ start using the package.
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
+Under `dependencies` in `pubspec.yaml`, then `flutter pub get`
 
 ```dart
   jose_mod:
